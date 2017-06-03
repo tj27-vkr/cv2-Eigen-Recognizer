@@ -1,4 +1,4 @@
-# face-detection-recognition
+# cv2-Eigen-Recognizer
 Detect faces in an image, train different faces, and recognize faces in sample image
 
 Procedure information from @rrangudez 's PyData talk
